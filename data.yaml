@@ -1,0 +1,132 @@
+repositories:
+  - name: mangudai
+    language: javascript
+    category: rms
+    maturity: high
+    version: any
+    url: https://github.com/mangudai/mangudai
+  - name: aoc-mgz
+    language: python
+    category: recs
+    maturity: high
+    version: up
+    url: https://github.com/happyleavesaoc/aoc-mgz
+  - name: aoc-rms
+    language: python
+    category: rms
+    maturity: medium
+    version: any
+    url: https://github.com/happyleavesaoc/aoc-rms
+  - name: python-voobly
+    language: python
+    category: voobly
+    maturity: medium
+    version: n/a
+    url: https://github.com/happyleavesaoc/python-voobly
+  - name: recage
+    language: javascript
+    category: recs
+    maturity: medium
+    version: up
+    url: https://github.com/goto-bus-stop/recage
+  - name: rms-check
+    language: rust
+    category: rms
+    maturity: medium
+    version: any
+    url: https://github.com/goto-bus-stop/rms-check
+  - name: recanalyst
+    language: php
+    category: recs
+    maturity: high
+    version: any
+    url: https://github.com/goto-bus-stop/recanalyst
+  - name: bartender
+    language: python
+    category: overlay
+    maturity: high
+    version: hd
+    url: https://github.com/IamFlea/bartender
+  - name: voobly-scraper
+    language: haskell
+    category: voobly
+    maturity: medium
+    version: n/a
+    url: https://github.com/bowswung/voobly-scraper
+  - name: voobly-r
+    language: R
+    category: analysis
+    maturity: low
+    version: n/a
+    url: https://github.com/bowswung/voobly-r
+  - name: aoe2predict
+    language: R
+    category: analysis
+    maturity: low
+    version: n/a
+    url: https://github.com/Macuyiko/aoe2predict
+  - name: aoc-mgz-format
+    language: ruby
+    category: recs
+    maturity: low
+    version: aoc
+    url: https://github.com/stefan-kolb/aoc-mgx-format
+  - name: run-aoe-rms
+    language: javascript
+    category: misc
+    maturity: low
+    version: up
+    url: https://github.com/goto-bus-stop/run-aoe-rms
+  - name: wololokingdoms
+    language: c++
+    category: mod
+    maturity: high
+    version: up
+    url: https://github.com/Jineapple/WololoKingdoms
+  - name: aoe2stats
+    language: javascript
+    category: misc
+    maturity: high
+    version: any
+    url: https://github.com/aocpip/aoe2stats
+  - name: genie-reverse
+    language: c++
+    category: genie
+    maturity: medium
+    version: aoc
+    url: https://github.com/yvan-burrie/Genie-Reverse
+  - name: genie-scx
+    language: javascript
+    category: scx
+    maturity: medium
+    version: aoc
+    url: https://github.com/goto-bus-stop/genie-scx
+  - name: genie-slp
+    language: javascript
+    category: genie
+    maturity: medium
+    version: aoc
+    url: https://github.com/goto-bus-stop/genie-slp
+  - name: genie-drs
+    language: javascript
+    category: genie
+    maturity: medium
+    version: aoc
+    url: https://github.com/goto-bus-stop/genie-drs
+  - name: agescx
+    language: python
+    category: scx
+    maturity: medium
+    version: aoc
+    url: https://github.com/dderevjanik/agescx
+  - name: aoc-headless
+    language: python
+    category: misc
+    maturity: low
+    version: up
+    url: https://github.com/happyleavesaoc/aoc-headless
+articles:
+  - name: "Predicting Voobly Age of Empires 2 Matches"
+    url: http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html
+  - name: "Game Hacking: Age of Empires II"
+    url: http://www.codereversing.com/blog/archives/38
