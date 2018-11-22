@@ -29,6 +29,12 @@ repositories:
     maturity: medium
     version: up
     url: https://github.com/goto-bus-stop/recage
+  - name: rms-parser
+    language: javascript
+    category: rms
+    maturity: medium
+    version: aoc
+    url: https://gist.github.com/goto-bus-stop/cb59e5f0ae03ec12c3800f120c16eef3
   - name: rms-check
     language: rust
     category: rms
