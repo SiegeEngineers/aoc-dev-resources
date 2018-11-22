@@ -26,7 +26,7 @@ repositories:
   - name: recage
     language: javascript
     category: recs
-    maturity: medium
+    maturity: low
     version: up
     url: https://github.com/goto-bus-stop/recage
   - name: rms-parser
@@ -38,7 +38,7 @@ repositories:
   - name: rms-check
     language: rust
     category: rms
-    maturity: medium
+    maturity: low
     version: any
     url: https://github.com/goto-bus-stop/rms-check
   - name: recanalyst
@@ -104,19 +104,19 @@ repositories:
   - name: genie-scx
     language: javascript
     category: scx
-    maturity: medium
+    maturity: low
     version: aoc
     url: https://github.com/goto-bus-stop/genie-scx
   - name: genie-slp
     language: javascript
     category: genie
-    maturity: medium
+    maturity: high
     version: aoc
     url: https://github.com/goto-bus-stop/genie-slp
   - name: genie-drs
     language: javascript
     category: genie
-    maturity: medium
+    maturity: high
     version: aoc
     url: https://github.com/goto-bus-stop/genie-drs
   - name: agescx
