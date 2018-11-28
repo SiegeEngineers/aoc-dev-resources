@@ -45,6 +45,8 @@ Useful repositories and articles related to developing software and analysis for
 | [genie-reverse](https://github.com/yvan-burrie/Genie-Reverse) | c++ | medium | aoc |
 | [genie-slp](https://github.com/goto-bus-stop/genie-slp) | javascript | high | aoc |
 | [genie-drs](https://github.com/goto-bus-stop/genie-drs) | javascript | high | aoc |
+| [genieutils](https://github.com/Tapsa/genieutils) | c++ | medium | various |
+| [age](https://github.com/Tapsa/AGE) | c++ | high | various |
 ### scx
 | Repository | Language | Maturity | Version |
 | --- | --- | --- | --- |
@@ -54,3 +56,4 @@ Useful repositories and articles related to developing software and analysis for
 - [Predicting Voobly Age of Empires 2 Matches](http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html)
 - [Game Hacking: Age of Empires II](http://www.codereversing.com/blog/archives/38)
 - [Age 2, Design Document](https://www.scribd.com/document/318886164/AGE-2-Design-Document)
+
