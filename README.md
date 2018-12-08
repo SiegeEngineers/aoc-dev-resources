@@ -56,5 +56,6 @@ Useful repositories and articles related to developing software and analysis for
 ## Articles
 - [Predicting Voobly Age of Empires 2 Matches](http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html)
 - [Game Hacking: Age of Empires II](http://www.codereversing.com/blog/archives/38)
-- [Age 2, Design Document](https://www.scribd.com/document/318886164/AGE-2-Design-Document)
+- [AGE 2 Design Document](https://www.scribd.com/document/318886164/AGE-2-Design-Document)
+- [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php)
 
