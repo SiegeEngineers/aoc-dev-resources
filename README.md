@@ -40,6 +40,8 @@ Useful repositories and articles related to developing software and analysis for
 | Repository | Language | Maturity | Version |
 | --- | --- | --- | --- |
 | [wololokingdoms](https://github.com/Jineapple/WololoKingdoms) | c++ | high | up |
+| [AoETechTree](https://github.com/Janworks/AoETechTree) | c++ | medium | up |
+| [aoc-builtin-rms](https://github.com/siegeengineers/aoc-builtin-rms) | c | medium | up |
 ### genie
 | Repository | Language | Maturity | Version |
 | --- | --- | --- | --- |
