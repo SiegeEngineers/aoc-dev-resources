@@ -89,6 +89,18 @@ repositories:
     maturity: high
     version: up
     url: https://github.com/Jineapple/WololoKingdoms
+  - name: AoETechTree
+    language: c++
+    category: mod
+    maturity: medium
+    version: up
+    url: https://github.com/Janworks/AoETechTree
+  - name: aoc-builtin-rms
+    language: c
+    category: mod
+    maturity: medium
+    version: up
+    url: https://github.com/siegeengineers/aoc-builtin-rms
   - name: aoe2stats
     language: javascript
     category: misc
