@@ -55,6 +55,7 @@ Useful repositories and articles related to developing software and analysis for
 | --- | --- | --- | --- |
 | [genie-scx](https://github.com/goto-bus-stop/genie-scx) | javascript | low | aoc |
 | [agescx](https://github.com/dderevjanik/agescx) | python | medium | aoc |
+| [aoe-real-map-creator](https://github.com/peterolson/AOE2-Real-Map-Creator) | javascript | high | various |
 ## Articles
 - [Predicting Voobly Age of Empires 2 Matches](http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html)
 - [Game Hacking: Age of Empires II](http://www.codereversing.com/blog/archives/38)
