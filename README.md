@@ -36,6 +36,7 @@ Useful repositories and articles related to developing software and analysis for
 | [aoe2stats](https://github.com/aocpip/aoe2stats) | javascript | high | any |
 | [aoc-headless](https://github.com/happyleavesaoc/aoc-headless) | python | low | up |
 | [openage](https://github.com/SFTtech/openage) | various | low | n/a |
+| [aoe2cm](https://github.com/aocpip/aoe2cm ) | javascript | high | n/a |
 ### mod
 | Repository | Language | Maturity | Version |
 | --- | --- | --- | --- |
