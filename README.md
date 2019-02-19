@@ -63,6 +63,7 @@ Useful repositories and articles related to developing software and analysis for
 | --- | --- | --- | --- |
 | [openage](https://github.com/SFTtech/openage) | various | low | n/a |
 | [freeaoe](https://github.com/sandsmark/freeaoe) | c++ | low | various |
+| [aoetwols](https://github.com/aap/aoetwols) | c | low | aoc |
 ## Articles
 - [Predicting Voobly Age of Empires 2 Matches](http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html)
 - [Game Hacking: Age of Empires II](http://www.codereversing.com/blog/archives/38)

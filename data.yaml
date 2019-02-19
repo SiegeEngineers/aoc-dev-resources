@@ -173,6 +173,12 @@ repositories:
     maturity: high
     version: n/a
     url: https://github.com/aocpip/aoe2cm
+  - name: aoetwols
+    language: c
+    category: new-engine
+    maturity: low
+    version: aoc
+    url: https://github.com/aap/aoetwols
 articles:
   - name: "Predicting Voobly Age of Empires 2 Matches"
     url: http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html
