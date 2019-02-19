@@ -103,16 +103,10 @@ repositories:
     url: https://github.com/siegeengineers/aoc-builtin-rms
   - name: aoe2stats
     language: javascript
-    category: misc
+    category: web-tool
     maturity: high
     version: any
     url: https://github.com/aocpip/aoe2stats
-  - name: genie-reverse
-    language: c++
-    category: genie
-    maturity: medium
-    version: aoc
-    url: https://github.com/yvan-burrie/Genie-Reverse
   - name: genie-scx
     language: javascript
     category: scx
@@ -148,25 +142,37 @@ repositories:
     category: genie
     maturity: medium
     version: various
-    url: https://github.com/Tapsa/genieutils
+    url: https://github.com/sandsmark/genieutils
   - name: age
     language: c++
     category: genie
     maturity: high
     version: various
-    url: https://github.com/Tapsa/AGE
+    url: https://github.com/sandsmark/AGE
   - name: openage
     language: various
-    category: misc
+    category: new-engine
     maturity: low
     version: n/a
     url: https://github.com/SFTtech/openage
+  - name: freeaoe
+    language: c++
+    maturity: low
+    category: new-engine
+    version: various
+    url: https://github.com/sandsmark/freeaoe
   - name: aoe-real-map-creator
     language: javascript
     category: scx
     maturity: high
     version: various
     url: https://github.com/peterolson/AOE2-Real-Map-Creator
+  - name: aoe2cm
+    language: javascript
+    category: web-tool
+    maturity: high
+    version: n/a
+    url: https://github.com/aocpip/aoe2cm
 articles:
   - name: "Predicting Voobly Age of Empires 2 Matches"
     url: http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html
