@@ -34,6 +34,7 @@ Useful repositories and articles related to developing software and analysis for
 | --- | --- | --- | --- |
 | [run-aoe-rms](https://github.com/goto-bus-stop/run-aoe-rms) | javascript | low | up |
 | [aoc-headless](https://github.com/happyleavesaoc/aoc-headless) | python | low | up |
+| [aoc-auto-game](https://github.com/FLWL/aoc-auto-game) | c++ | low | up |
 ### mod
 | Repository | Language | Maturity | Version |
 | --- | --- | --- | --- |
