@@ -183,7 +183,7 @@ repositories:
     language: c++
     category: misc
     maturity: low
-    version: aoc
+    version: up
     url: https://github.com/FLWL/aoc-auto-game
 articles:
   - name: "Predicting Voobly Age of Empires 2 Matches"
