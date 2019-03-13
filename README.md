@@ -8,6 +8,7 @@ Useful repositories and articles related to developing software and analysis for
 | [aoc-rms](https://github.com/happyleavesaoc/aoc-rms) | python | medium | any |
 | [rms-parser](https://gist.github.com/goto-bus-stop/cb59e5f0ae03ec12c3800f120c16eef3) | javascript | medium | aoc |
 | [rms-check](https://github.com/goto-bus-stop/rms-check) | rust | low | any |
+| [RmsParser](https://github.com/sdjnyty/RmsParser) | C# | low | aoc |
 ### recs
 | Repository | Language | Maturity | Version |
 | --- | --- | --- | --- |
@@ -59,12 +60,18 @@ Useful repositories and articles related to developing software and analysis for
 | [genie-drs](https://github.com/goto-bus-stop/genie-drs) | javascript | high | aoc |
 | [genieutils](https://github.com/sandsmark/genieutils) | c++ | medium | various |
 | [age](https://github.com/sandsmark/AGE) | c++ | high | various |
+| [AocDatLib](https://github.com/sdjnyty/AocDatLib) | C# | low | aoc |
 ### new-engine
 | Repository | Language | Maturity | Version |
 | --- | --- | --- | --- |
 | [openage](https://github.com/SFTtech/openage) | various | low | n/a |
 | [freeaoe](https://github.com/sandsmark/freeaoe) | c++ | low | various |
 | [aoetwols](https://github.com/aap/aoetwols) | c | low | aoc |
+### multiplayer
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [DyingServer](https://github.com/sdjnyty/DyingServer) | C# | low | various |
+| [dplobbyserver](https://github.com/goto-bus-stop/dplobbysystem) | pascal | low | aoc |
 ## Articles
 - [Predicting Voobly Age of Empires 2 Matches](http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html)
 - [Game Hacking: Age of Empires II](http://www.codereversing.com/blog/archives/38)

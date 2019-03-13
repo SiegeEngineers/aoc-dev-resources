@@ -185,6 +185,30 @@ repositories:
     maturity: low
     version: up
     url: https://github.com/FLWL/aoc-auto-game
+  - name: RmsParser
+    language: C#
+    category: rms
+    maturity: low
+    version: aoc
+    url: https://github.com/sdjnyty/RmsParser
+  - name: AocDatLib
+    language: C#
+    category: genie
+    maturity: low
+    version: aoc
+    url: https://github.com/sdjnyty/AocDatLib
+  - name: DyingServer
+    language: C#
+    category: multiplayer
+    maturity: low
+    version: various
+    url: https://github.com/sdjnyty/DyingServer
+  - name: dplobbyserver
+    language: pascal
+    category: multiplayer
+    maturity: low
+    version: aoc
+    url: https://github.com/goto-bus-stop/dplobbysystem
 articles:
   - name: "Predicting Voobly Age of Empires 2 Matches"
     url: http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html
