@@ -77,4 +77,6 @@ Useful repositories and articles related to developing software and analysis for
 - [Game Hacking: Age of Empires II](http://www.codereversing.com/blog/archives/38)
 - [AGE 2 Design Document](https://www.scribd.com/document/318886164/AGE-2-Design-Document)
 - [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php)
+- [Coordinated Movement](http://www.gamasutra.com/view/feature/3313/coordinated_unit_movement.php)
+- [Implementing Coordinated Movement](http://www.gamasutra.com/view/feature/131721/implementing_coordinated_movement.php)
 

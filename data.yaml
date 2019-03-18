@@ -218,3 +218,7 @@ articles:
     url: https://www.scribd.com/document/318886164/AGE-2-Design-Document
   - name: "1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond"
     url: https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php
+  - name: "Coordinated Movement"
+    url: http://www.gamasutra.com/view/feature/3313/coordinated_unit_movement.php
+  - name: "Implementing Coordinated Movement"
+    url: http://www.gamasutra.com/view/feature/131721/implementing_coordinated_movement.php
