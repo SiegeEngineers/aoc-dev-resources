@@ -33,6 +33,10 @@ def write_markdown(data):
                 repo['name'], repo['url'], repo['language'], repo['maturity'], repo['version'])
             )
 
+    text = append(text, "## APIs & Protocols")
+    for api in data['apis']:
+        text = append(text, '- [{}]({})'.format(api['name'], api['url']))
+
     text = append(text, "## Articles")
     for article in data['articles']:
         text = append(text, '- [{}]({})'.format(article['name'], article['url']))

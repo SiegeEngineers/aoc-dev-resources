@@ -222,3 +222,10 @@ articles:
     url: http://www.gamasutra.com/view/feature/3313/coordinated_unit_movement.php
   - name: "Implementing Coordinated Movement"
     url: http://www.gamasutra.com/view/feature/131721/implementing_coordinated_movement.php
+apis:
+  - name: "Steam Browser Protocol"
+    url: https://developer.valvesoftware.com/wiki/Steam_browser_protocol
+  - name: "Steam Web API"
+    url: https://developer.valvesoftware.com/wiki/Steam_Web_API
+  - name: "Voobly API"
+    url: https://voobly.com/pages/view/147/External-API-Documentation

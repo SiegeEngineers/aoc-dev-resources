@@ -72,6 +72,10 @@ Useful repositories and articles related to developing software and analysis for
 | --- | --- | --- | --- |
 | [DyingServer](https://github.com/sdjnyty/DyingServer) | C# | low | various |
 | [dplobbyserver](https://github.com/goto-bus-stop/dplobbysystem) | pascal | low | aoc |
+## APIs & Protocols
+- [Steam Browser Protocol](https://developer.valvesoftware.com/wiki/Steam_browser_protocol)
+- [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API)
+- [Voobly API](https://voobly.com/pages/view/147/External-API-Documentation)
 ## Articles
 - [Predicting Voobly Age of Empires 2 Matches](http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html)
 - [Game Hacking: Age of Empires II](http://www.codereversing.com/blog/archives/38)
