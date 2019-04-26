@@ -209,6 +209,12 @@ repositories:
     maturity: low
     version: aoc
     url: https://github.com/goto-bus-stop/dplobbysystem
+  - name: aoc-ai-parser
+    language: python
+    category: ai
+    maturity: low
+    version: aoc
+    url: https://github.com/FLWL/aoc-ai-parser
 articles:
   - name: "Predicting Voobly Age of Empires 2 Matches"
     url: http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html
