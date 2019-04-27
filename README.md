@@ -72,6 +72,10 @@ Useful repositories and articles related to developing software and analysis for
 | --- | --- | --- | --- |
 | [DyingServer](https://github.com/sdjnyty/DyingServer) | C# | low | various |
 | [dplobbyserver](https://github.com/goto-bus-stop/dplobbysystem) | pascal | low | aoc |
+### ai
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [aoc-ai-parser](https://github.com/FLWL/aoc-ai-parser) | python | low | aoc |
 ## APIs & Protocols
 - [Steam Browser Protocol](https://developer.valvesoftware.com/wiki/Steam_browser_protocol)
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API)
