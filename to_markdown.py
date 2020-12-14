@@ -10,13 +10,13 @@ DESCRIPTION = 'Useful repositories and articles related to developing software a
 
 def append(text, line):
     """Append a line to the text."""
-    return text + '{}{}'.format(line, '\n')
+    return f"{text}{line}\n"
 
 
 def write_markdown(data):
     """Write markdown based on data file."""
     text = ''
-    text = append(text, "# {}".format(TITLE))
+    text = append(text, f"# {TITLE}")
     text = append(text, DESCRIPTION)
 
     categories = defaultdict(list)
@@ -25,7 +25,7 @@ def write_markdown(data):
 
     text = append(text, "## Repositories")
     for cat, repos in categories.items():
-        text = append(text, '### {}'.format(cat))
+        text = append(text, f'### {cat}')
         text = append(text, "| Repository | Language | Maturity | Version |")
         text = append(text, "| --- | --- | --- | --- |")
         for repo in repos:
@@ -35,11 +35,11 @@ def write_markdown(data):
 
     text = append(text, "## APIs & Protocols")
     for api in data['apis']:
-        text = append(text, '- [{}]({})'.format(api['name'], api['url']))
+        text = append(text, f"- [{api['name']}]({api['url']})")
 
     text = append(text, "## Articles")
     for article in data['articles']:
-        text = append(text, '- [{}]({})'.format(article['name'], article['url']))
+        text = append(text, f"- [{article['name']}]({article['url']})")
 
     return text
 
