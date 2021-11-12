@@ -215,6 +215,18 @@ repositories:
     maturity: low
     version: aoc
     url: https://github.com/FLWL/aoc-ai-parser
+  - name: geniedoc
+    language: none
+    category: documentation
+    maturity: medium
+    version: various
+    url: https://github.com/aap/geniedoc/
+  - name: aoeres
+    language: none
+    category: documentation
+    maturity: medium
+    version: various
+    url: https://github.com/withmorten/aoeres
 articles:
   - name: "Predicting Voobly Age of Empires 2 Matches"
     url: http://blog.macuyiko.com/post/2018/predicting-voobly-age-of-empires-2-matches.html

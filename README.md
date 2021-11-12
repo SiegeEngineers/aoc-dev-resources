@@ -9,6 +9,60 @@ Useful repositories and articles related to developing software and analysis for
 | [rms-parser](https://gist.github.com/goto-bus-stop/cb59e5f0ae03ec12c3800f120c16eef3) | javascript | medium | aoc |
 | [rms-check](https://github.com/goto-bus-stop/rms-check) | rust | low | any |
 | [RmsParser](https://github.com/sdjnyty/RmsParser) | C# | low | aoc |
+### genie
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [genie-slp](https://github.com/goto-bus-stop/genie-slp) | javascript | high | aoc |
+| [genie-drs](https://github.com/goto-bus-stop/genie-drs) | javascript | high | aoc |
+| [genieutils](https://github.com/sandsmark/genieutils) | c++ | medium | various |
+| [age](https://github.com/sandsmark/AGE) | c++ | high | various |
+| [AocDatLib](https://github.com/sdjnyty/AocDatLib) | C# | low | aoc |
+### multiplayer
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [DyingServer](https://github.com/sdjnyty/DyingServer) | C# | low | various |
+| [dplobbyserver](https://github.com/goto-bus-stop/dplobbysystem) | pascal | low | aoc |
+### documentation
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [geniedoc](https://github.com/aap/geniedoc/) | none | medium | various |
+| [aoeres](https://github.com/withmorten/aoeres) | none | medium | various |
+### overlay
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [bartender](https://github.com/IamFlea/bartender) | python | high | hd |
+### ai
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [aoc-ai-parser](https://github.com/FLWL/aoc-ai-parser) | python | low | aoc |
+### web-tool
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [aoe2stats](https://github.com/aocpip/aoe2stats) | javascript | high | any |
+| [aoe2cm](https://github.com/aocpip/aoe2cm) | javascript | high | n/a |
+### misc
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [run-aoe-rms](https://github.com/goto-bus-stop/run-aoe-rms) | javascript | low | up |
+| [aoc-headless](https://github.com/happyleavesaoc/aoc-headless) | python | low | up |
+| [aoc-auto-game](https://github.com/FLWL/aoc-auto-game) | c++ | low | up |
+### analysis
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [voobly-r](https://github.com/bowswung/voobly-r) | R | low | n/a |
+| [aoe2predict](https://github.com/Macuyiko/aoe2predict) | R | low | n/a |
+### new-engine
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [openage](https://github.com/SFTtech/openage) | various | low | n/a |
+| [freeaoe](https://github.com/sandsmark/freeaoe) | c++ | low | various |
+| [aoetwols](https://github.com/aap/aoetwols) | c | low | aoc |
+### scx
+| Repository | Language | Maturity | Version |
+| --- | --- | --- | --- |
+| [genie-scx](https://github.com/goto-bus-stop/genie-scx) | javascript | low | aoc |
+| [agescx](https://github.com/dderevjanik/agescx) | python | medium | aoc |
+| [aoe-real-map-creator](https://github.com/peterolson/AOE2-Real-Map-Creator) | javascript | high | various |
 ### recs
 | Repository | Language | Maturity | Version |
 | --- | --- | --- | --- |
@@ -21,61 +75,12 @@ Useful repositories and articles related to developing software and analysis for
 | --- | --- | --- | --- |
 | [python-voobly](https://github.com/happyleavesaoc/python-voobly) | python | medium | n/a |
 | [voobly-scraper](https://github.com/bowswung/voobly-scraper) | haskell | medium | n/a |
-### overlay
-| Repository | Language | Maturity | Version |
-| --- | --- | --- | --- |
-| [bartender](https://github.com/IamFlea/bartender) | python | high | hd |
-### analysis
-| Repository | Language | Maturity | Version |
-| --- | --- | --- | --- |
-| [voobly-r](https://github.com/bowswung/voobly-r) | R | low | n/a |
-| [aoe2predict](https://github.com/Macuyiko/aoe2predict) | R | low | n/a |
-### misc
-| Repository | Language | Maturity | Version |
-| --- | --- | --- | --- |
-| [run-aoe-rms](https://github.com/goto-bus-stop/run-aoe-rms) | javascript | low | up |
-| [aoc-headless](https://github.com/happyleavesaoc/aoc-headless) | python | low | up |
-| [aoc-auto-game](https://github.com/FLWL/aoc-auto-game) | c++ | low | up |
 ### mod
 | Repository | Language | Maturity | Version |
 | --- | --- | --- | --- |
 | [wololokingdoms](https://github.com/Jineapple/WololoKingdoms) | c++ | high | up |
 | [AoETechTree](https://github.com/Janworks/AoETechTree) | c++ | medium | up |
 | [aoc-builtin-rms](https://github.com/siegeengineers/aoc-builtin-rms) | c | medium | up |
-### web-tool
-| Repository | Language | Maturity | Version |
-| --- | --- | --- | --- |
-| [aoe2stats](https://github.com/aocpip/aoe2stats) | javascript | high | any |
-| [aoe2cm](https://github.com/aocpip/aoe2cm) | javascript | high | n/a |
-### scx
-| Repository | Language | Maturity | Version |
-| --- | --- | --- | --- |
-| [genie-scx](https://github.com/goto-bus-stop/genie-scx) | javascript | low | aoc |
-| [agescx](https://github.com/dderevjanik/agescx) | python | medium | aoc |
-| [aoe-real-map-creator](https://github.com/peterolson/AOE2-Real-Map-Creator) | javascript | high | various |
-### genie
-| Repository | Language | Maturity | Version |
-| --- | --- | --- | --- |
-| [genie-slp](https://github.com/goto-bus-stop/genie-slp) | javascript | high | aoc |
-| [genie-drs](https://github.com/goto-bus-stop/genie-drs) | javascript | high | aoc |
-| [genieutils](https://github.com/sandsmark/genieutils) | c++ | medium | various |
-| [age](https://github.com/sandsmark/AGE) | c++ | high | various |
-| [AocDatLib](https://github.com/sdjnyty/AocDatLib) | C# | low | aoc |
-### new-engine
-| Repository | Language | Maturity | Version |
-| --- | --- | --- | --- |
-| [openage](https://github.com/SFTtech/openage) | various | low | n/a |
-| [freeaoe](https://github.com/sandsmark/freeaoe) | c++ | low | various |
-| [aoetwols](https://github.com/aap/aoetwols) | c | low | aoc |
-### multiplayer
-| Repository | Language | Maturity | Version |
-| --- | --- | --- | --- |
-| [DyingServer](https://github.com/sdjnyty/DyingServer) | C# | low | various |
-| [dplobbyserver](https://github.com/goto-bus-stop/dplobbysystem) | pascal | low | aoc |
-### ai
-| Repository | Language | Maturity | Version |
-| --- | --- | --- | --- |
-| [aoc-ai-parser](https://github.com/FLWL/aoc-ai-parser) | python | low | aoc |
 ## APIs & Protocols
 - [Steam Browser Protocol](https://developer.valvesoftware.com/wiki/Steam_browser_protocol)
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API)
